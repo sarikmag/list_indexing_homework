@@ -7,7 +7,7 @@ def main(list1):
         list: return answer
     """
     i=0
-    a=True
+    a=[True]
     while i<5:
         if list1[i]==[1]:
             list1[i]=a

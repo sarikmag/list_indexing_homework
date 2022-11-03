@@ -6,4 +6,7 @@ def main(list1):
     Returns:
         bool: return answer
     """
+    i=0
+    while i<list1[i]:
+        
     return
