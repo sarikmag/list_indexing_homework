@@ -7,6 +7,5 @@ def main(list1):
         bool: return answer
     """
     i=0
-    while i<list1[i]:
-        
+    
     return
